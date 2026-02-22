@@ -44,8 +44,8 @@ All preprocessing is fitted only on training data.
 ## Classical Machine Learning Models
 
 ### Logistic Regression
-      - Tuned hyperparameter: C
-      - Class imbalance handled via class_weight='balanced'
+ - Tuned hyperparameter: C
+ - Class imbalance handled via class_weight='balanced'
 
 ### Random Forest
 
